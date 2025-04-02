@@ -27,7 +27,9 @@ python main.py
 ```
 
 ## 📸 Screenshot
-![Web Vulnerability Scanner](https://images.unsplash.com/photo-1741879080222-b9b5f20b3333?q=80&w=1926&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D)
+![Screenshot 2025-04-03 023237](https://github.com/user-attachments/assets/fd6dac51-03a1-4f37-9295-09d184201668)
+![Screenshot 2025-04-03 023256](https://github.com/user-attachments/assets/bcb81d67-03e8-406b-a3ae-288235625d3e)
+
 
 ## 📜 Usage
 1. **Enter a target URL** in the input box.
