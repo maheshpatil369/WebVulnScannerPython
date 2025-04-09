@@ -55,5 +55,5 @@ This tool is for **educational and ethical security testing purposes only**. Do 
 This project is licensed under the **MIT License**.
 
 ---
-Made with ❤️ by [Your Name]
+Made with ❤️ by [Mahesh Patil]
 
