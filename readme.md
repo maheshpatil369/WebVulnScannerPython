@@ -51,9 +51,6 @@ pip install requests beautifulsoup4 shodan
 ## ⚠️ Disclaimer
 This tool is for **educational and ethical security testing purposes only**. Do not use it on unauthorized targets!
 
-## 📌 License
-This project is licensed under the **MIT License**.
-
 ---
 Made with ❤️ by [Mahesh Patil]
 
