@@ -52,5 +52,5 @@ pip install requests beautifulsoup4 shodan
 This tool is for **educational and ethical security testing purposes only**. Do not use it on unauthorized targets!
 
 ---
-Made with ❤️ by [Mahesh Patil]
+Made with ❤️ by Mahesh Patil
 
