@@ -1,4 +1,4 @@
-
+# Made with ❤️ by Mahesh Patil
 import requests
 import threading
 import tkinter as tk
@@ -88,7 +88,7 @@ def dir_enum(url):
                 output.insert(tk.END, f"[+] Found: {check_url}\n", "success")
         except requests.RequestException:
             pass
-
+# Made with ❤️ by Mahesh Patil
 def nmap_scan(target):
     try:
         output.insert(tk.END, f"\n[+] Running Nmap scan on {target}...\n", "info")
